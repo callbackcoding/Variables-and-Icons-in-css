@@ -1,0 +1,20 @@
+:root{
+    --maintheme: rgb(248, 5, 143);
+    --myfont:50px;
+}
+
+
+h1{
+    color: var(--maintheme);
+}
+
+a{
+    color: var(--maintheme);
+    font-size: var(--myfont);
+}
+
+p{
+    color: var(--maintheme);
+    font-size: var(--myfont);
+
+}
